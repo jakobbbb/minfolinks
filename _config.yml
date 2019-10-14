@@ -25,8 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
     [hyperlink.cool](https://github.com/kleinfreund/hyperlink.cool) übernommen.
     Diese Website ist freie Software unter der MIT-Lizenz, der Code befindet sich
     auf [GitHub](https://github.com/jakobbbb/jakobbbb.github.io).
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/minfolinks" # the subpath of your site, e.g. /blog
+url: "https://jakobbbb.github.io/minfolinks" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
