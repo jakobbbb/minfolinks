@@ -23,6 +23,8 @@ description: >- # this means to ignore newlines until "baseurl:"
     Die Website wurde von Jakob Ruckel mit Jekyll erstellt.  Die Links wurden
     aus Philipp Rudloffs
     [hyperlink.cool](https://github.com/kleinfreund/hyperlink.cool) übernommen.
+    Diese Website ist freie Software unter der MIT-Lizenz, der Code befindet sich
+    auf [GitHub](https://github.com/jakobbbb/jakobbbb.github.io).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
