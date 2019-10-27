@@ -647,6 +647,11 @@
           "title": "BISON",
           "key": "bison",
           "url": "https://www.uni-weimar.de/qisserver"
+        },
+        {
+          "title": "LiNT-Belegung",
+          "key": "lint",
+          "url": "https://www.uni-weimar.de/qisserver/rds?state=wplan&act=Raum&pool=Raum&raum.rgid=3205"
         }
       ]
     },
