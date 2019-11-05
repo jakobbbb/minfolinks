@@ -18,6 +18,11 @@
           "url": "https://www.uni-weimar.de/de/medien/professuren/medieninformatik/mediensicherheit/teaching/ws-2019/diskrete-strukturen-vorlesung/"
         },
         {
+          "title": "Übung",
+          "key": "dsu",
+          "url": "https://www.uni-weimar.de/de/medien/professuren/medieninformatik/mediensicherheit/teaching/ws-2019/diskrete-strukturen-uebung/"
+        },
+        {
           "title": "Vorlesungsverzeichnis",
           "key": "dsvz",
           "url": "https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=42749&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
